@@ -1,2 +1,2 @@
-# local_storage_test
+# Notepad
  Simple local storage based notepad
