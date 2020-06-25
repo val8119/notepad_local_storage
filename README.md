@@ -1,2 +1,2 @@
 # local_storage_test
- Trying out local storage in JavaScript
+ Simple local storage based notebook
