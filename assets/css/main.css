@@ -24,8 +24,7 @@ body {
 }
 
 .notepad-textarea {
-    word-wrap: break-word;
-    white-space: pre-wrap;
+    white-space: pre-line;
     font-family: 'Open Sans', sans-serif;
     color: #f4f9fd;
     font-size: 14px;
